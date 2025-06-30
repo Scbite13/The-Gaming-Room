@@ -1,6 +1,7 @@
 # The-Gaming-Room
-Software Design Document: 
-Summary of the Client and Their Software Requirements
+Software Design Document 
+
+Summary of the Client and Their Software Requirements:
 The client for this project was The Gaming Room, a company seeking to expand the reach of their multiplayer game application, Draw It or Lose It, originally built for Android platforms. Their goal was to make the game accessible across multiple operating systems, including desktop and web environments. The client requested a software design document outlining the proposed system architecture, platform considerations, memory management techniques, and networking strategies for a scalable, distributed environment capable of supporting multiple game instances concurrently.
 
 My Strengths in My Documentation Development: 
